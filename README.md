@@ -2,7 +2,7 @@
 
 ## I'm a Product Manager, Developer, Investor and Trader!!
 
-- 🌱 I’m currently learning everything 🤣 and working on a few flutter projects (full stack) - (2021 Goals) 🤑
+- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on my flutter projects 🤘
 - 🤔 I’m looking for help with anything in which you have expertise.
 - 💬 Ask me about anything, but I may be slow to respond.
