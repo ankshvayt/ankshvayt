@@ -22,10 +22,9 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-🔭 I’m currently working on a few flutter projects.
-👯 I’m looking to collaborate on my flutter packages -- Animated Text Kit, Liquid Pull to Refresh and IntroViews Flutter 🤘
-🤔 I’m looking for help with anything in which you have expertise.
-💬 Ask me about anything, but I may be slow to respond.
-📫 How to reach me: aagarwal9782@gmail.com
-😄 Pronouns: he/his/him
-⚡ Fun fact: Carrots🥕🥕 just might turn you orange.
+🔭 I’m currently working on a few flutter projects. <br>
+👯 I’m looking to collaborate on my flutter projects 🤘 <br>
+🤔 I’m looking for help with anything in which you have expertise. <br>
+💬 Ask me about anything, but I may be slow to respond. <br>
+📫 How to reach me: ankshva.yt@gmail.com@gmail.com <br>
+😄 Pronouns: he/his/him <br>
