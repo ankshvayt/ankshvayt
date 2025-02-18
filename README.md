@@ -2,8 +2,8 @@
 
 ## I'm a Product Manager, Developer, Investor and Trader!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on my flutter projects 🤘
+- 🌱 I’m currently playing AI ML and LLMs 🤣
+- 👯 I’m looking to collaborate on my AI projects 🤘
 - 🤔 I’m looking for help with anything in which you have expertise.
 - 💬 Ask me about anything, but I may be slow to respond.
 - 📫 How to reach me: ankshva[dot]yt[at]gmail.com
