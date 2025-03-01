@@ -12,6 +12,20 @@
 
 ### Languages and Tools:
 
+Here's your updated "### Languages and Tools:" section with the additional AI tools added at the starting:
+
+### Languages and Tools:
+
+<img align="left" alt="NotebookLM" width="26px" src="https://www.gstatic.com/lamda/images/notebook_lm_favicon_128.svg" />
+<img align="left" alt="Ollama" width="26px" src="https://ollama.ai/public/ollama.png" />
+<img align="left" alt="Google Colab" width="26px" src="https://colab.research.google.com/img/favicon.ico" />
+<img align="left" alt="Hugging Face" width="26px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
+<img align="left" alt="v0" width="26px" src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" />
+<img align="left" alt="ChatGPT" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" />
+<img align="left" alt="Claude" width="26px" src="https://seeklogo.com/images/C/claude-anthropic-logo-6CC4FECA6A-seeklogo.com.png" />
+<img align="left" alt="LMStudio" width="26px" src="https://lmstudio.ai/favicon.svg" />
+<img align="left" alt="OpenRouter" width="26px" src="https://openrouter.ai/favicon.ico" />
+<img align="left" alt="Cursor AI" width="26px" src="https://cursor.sh/favicon.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
