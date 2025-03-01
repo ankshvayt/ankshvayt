@@ -12,10 +12,6 @@
 
 ### Languages and Tools:
 
-Here's your updated "### Languages and Tools:" section with the additional AI tools added at the starting:
-
-### Languages and Tools:
-
 <img align="left" alt="NotebookLM" width="26px" src="https://almbok.com/_media/ai/tools/notebooklm.png?w=200&h=200&tok=c2ec13" />
 <img align="left" alt="Ollama" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr8EQyPBouq4mKwskOkuooAtDVV_R5MMzidO6HSzdkEuCOneioKy43SCFlWiPOY46Suto&usqp=CAU" />
 <img align="left" alt="Google Colab" width="26px" src="https://colab.research.google.com/img/favicon.ico" />
