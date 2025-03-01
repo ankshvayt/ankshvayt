@@ -2,7 +2,7 @@
 
 ## I'm a Product Manager, Developer, Investor and Trader!!
 
-- 🌱 I’m currently playing AI ML and LLMs
+- 🌱 I’m currently playing with AI, ML and LLMs
 - 👯 I’m looking to collaborate on my AI projects 🤘
 - 🤔 I’m looking for help with anything in which you have expertise.
 - 💬 Ask me about anything, but I may be slow to respond.
