@@ -2,10 +2,10 @@
 
 ## I'm a Product Manager, Developer, Investor and Trader!!
 
-- 🌱 I’m currently playing with AI, ML and LLMs
-- 👯 I’m looking to collaborate on my AI projects 🤘
-- 🤔 I’m looking for help with anything in which you have expertise.
-- 💬 Ask me about anything, but I may be slow to respond.
+- 🌱 I’m currently playing with AI, ML and a lot of LLMs - inferences, fine-tuning, RAG, and what not!!!
+- 👯 I’m looking to collaborate on my AI projects 🤘 - literally - I am working on a bunch of them! AI is a superpower, you know!!!
+- 🤔 I’m looking for help with anything in which you have expertise. - Let's connect if you are also looking to ride the AI LLM waive!!!
+- 💬 Ask me about anything - Ping me on [LinkedIn](https://www.linkedin.com/in/ankur-shrivastava/)
 - 📫 How to reach me: ankshva[dot]yt[at]gmail.com
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: I love to read and play soccer
