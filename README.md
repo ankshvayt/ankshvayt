@@ -16,14 +16,14 @@ Here's your updated "### Languages and Tools:" section with the additional AI to
 
 ### Languages and Tools:
 
-<img align="left" alt="NotebookLM" width="26px" src="https://www.gstatic.com/lamda/images/notebook_lm_favicon_128.svg" />
-<img align="left" alt="Ollama" width="26px" src="https://ollama.ai/public/ollama.png" />
+<img align="left" alt="NotebookLM" width="26px" src="https://almbok.com/_media/ai/tools/notebooklm.png?w=200&h=200&tok=c2ec13" />
+<img align="left" alt="Ollama" width="26px" src="https://images.seeklogo.com/logo-png/59/1/ollama-logo-png_seeklogo-593420.png" />
 <img align="left" alt="Google Colab" width="26px" src="https://colab.research.google.com/img/favicon.ico" />
 <img align="left" alt="Hugging Face" width="26px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
 <img align="left" alt="v0" width="26px" src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" />
 <img align="left" alt="ChatGPT" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" />
-<img align="left" alt="Claude" width="26px" src="https://seeklogo.com/images/C/claude-anthropic-logo-6CC4FECA6A-seeklogo.com.png" />
-<img align="left" alt="LMStudio" width="26px" src="https://lmstudio.ai/favicon.svg" />
+<img align="left" alt="Claude" width="26px" src="https://cdn.futurepedia.io/b6e50f0d7a55b834bbbc47f7baa3069472eef4b2-512x512.png" />
+<img align="left" alt="LMStudio" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTySJpps0ceXoIPOggng0_NFOjJP6LGtKVGhw&s" />
 <img align="left" alt="OpenRouter" width="26px" src="https://openrouter.ai/favicon.ico" />
 <img align="left" alt="Cursor AI" width="26px" src="https://cursor.sh/favicon.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -37,6 +37,6 @@ Here's your updated "### Languages and Tools:" section with the additional AI to
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/23139967/130287053-07b4549a-5c3c-4cf8-ba16-51e50e723b56.png" />
