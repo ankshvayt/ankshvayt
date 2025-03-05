@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on my AI projects 🤘 - literally - I am working on a bunch of them! AI is a superpower, you know!!!
 - 🤔 I’m looking for help with anything in which you have expertise. - Let's connect if you are also looking to ride the AI LLM waive!!!
 - 💬 Ask me about anything - Ping me on [LinkedIn](https://www.linkedin.com/in/ankur-shrivastava/)
-- 😄 Pronouns: he/his/him
 - ⚡ Fun fact: I love to read and play soccer
 
 ### Languages and Tools:
