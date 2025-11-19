@@ -1,6 +1,6 @@
 # Hi there, I'm Ankur 👋
 
-## Product Manager | AI/ML Enthusiast | Developer | Investor & Trader
+## Product Manager | Agentic AI/ML Enthusiast | Developer | Investor & Trader | Content Creator
 
 ### 🚀 What I'm Up To
 
