@@ -112,7 +112,7 @@
 
 ### ⚡ Fun Facts & Side Projects
 
-- 📷 Travel content creator specializing in ultra-budget Southeast Asia adventures ($25/day budgets)
+- 📷 Travel content creator specializing in ultra-budget Southeast Asia adventures
 - 🎥 Professional content creation with Insta360 X5 and DJI Pocket 3
 - ⚽ Soccer enthusiast and avid reader
 - 📈 8+ years in product management with proven track record of scaling products
