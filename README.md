@@ -1,125 +1,49 @@
-# Hi there, I'm Ankur 👋
+<h1 align="center">Hi, I'm Ankur 👋</h1>
 
-## Product Manager | Agentic AI/ML Enthusiast | Developer | Investor & Trader | Content Creator
+<p align="center">
+  <b>AI Product builder. Operator. Ex-ShareChat (200M+ users). Currently Product @ Vestra.</b><br/>
+  I build AI-native products and small high-margin businesses — and help other teams ship 10x faster with agents.
+</p>
 
-### 🚀 What I'm Up To
-
-- 🧠 Building AI agents and exploring the full LLM stack - inference optimization, fine-tuning, RAG architectures
-- 🎯 Scaling AI products from 0→1 with focus on user acquisition and growth metrics
-- 📊 Deep diving into analytics, conversion funnels, and data-driven product strategy
-- ✈️ Creating budget travel content for Southeast Asia (check out my adventures on Instagram)
-
-### 💡 Looking to Collaborate On
-
-- AI/ML projects leveraging LLMs (GPT, Claude, Gemini, open-source models)
-- Product strategy and go-to-market for AI-first products
-- Automation workflows and agentic systems
-- AI agent building and orchestration
-
-### 🛠️ Tech Stack & Tools
-
-**AI/ML & LLM Platforms**
-- Cursor AI
-- ChatGPT
-- Claude Code
-- Gemini
-- Ollama
-- LM Studio
-- OpenRouter
-- Google Colab
-- NotebookLM
-- HuggingFace Transformers
-
-**AI Agent Frameworks & Tools**
-- Composio
-- n8n (Workflow automation)
-- LangChain/DeepAgents
-- AutoGen
-- CrewAI
-- Flowise
-- LangGraph
-- Zapier AI Actions
-- Make (Integromat)
-
-**AI Development & Deployment**
-- v0.dev (UI generation)
-- Vercel AI SDK
-- OpenAI API
-- Anthropic API
-- Replicate
-
-**Analytics & Product Tools**
-- Amplitude
-- Meta Ads Manager
-- Google Analytics
-- Mixpanel
-- Segment
-- Clevertap
-- BigQuery
-
-**Development Languages & Frameworks**
-- TypeScript
-- Python
-- JavaScript
-- Next.js
-- React
-- Node.js
-- Gatsby
-- GraphQL
-- FastAPI
-- Streamlit
-
-**Infrastructure & Cloud**
-- Vercel
-- Supabase
-- Firebase
-- Google Cloud Platform (GCP)
-- AWS
-- Netlify
-- Cloudflare
-
-**Databases & Storage**
-- PostgreSQL
-- MongoDB
-- MySQL
-- Redis
-
-**Dev Tools & Version Control**
-- VS Code
-- Cursor
-- Git
-- GitHub
-- GitLab
-- Warp Terminal
-- Postman
-
-**AI Content & Media Tools**
-- Nano Banana
-- Seedream
-- Sora
-- Veo
-- Seedance
-- Midjourney
-- DALL-E
-- Stable Diffusion
-- RunwayML
-- ElevenLabs
-- Descript
-- CapCut
-- Adobe Premiere Pro
+<p align="center">
+  <a href="https://ankur.pm/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ankur.pm-111?style=for-the-badge&logo=safari&logoColor=white"></a>
+  <a href="https://www.ankurai.com/"><img alt="ankurai.com" src="https://img.shields.io/badge/ankurai.com-000?style=for-the-badge&logo=openai&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ankur-shrivastava/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/ankurdotai"><img alt="X" src="https://img.shields.io/badge/@ankurdotai-000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.youtube.com/@ankurdotai"><img alt="YouTube" src="https://img.shields.io/badge/@ankurdotai-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
 
 ---
 
-### ⚡ Fun Facts & Side Projects
+### 🧭 What I'm doing right now
 
-- 📷 Travel content creator specializing in ultra-budget Southeast Asia adventures
-- 🎥 Professional content creation with Insta360 X5 and DJI Pocket 3
-- ⚽ Soccer enthusiast and avid reader
-- 📈 8+ years in product management with proven track record of scaling products
-- 🧪 Experimenting with AI agent orchestration, trading systems, and automation workflows
-- 🎯 Building viral content strategies for social media growth
+- **Product @ Vestra** — building AI-native products 0→1
+- **Shipping agentic workflows** with Claude, Composio, n8n — turning repeat work into durable compounding systems
+- **Creating content** about AI/tech (`@ankurdotai`)
+
+### 🛠️ What I build with
+
+- **AI & agents** — Claude (Code + Cowork + Design), Anthropic + Gemini APIs, Composio, n8n
+- **Product** — Next.js, React, TypeScript, Python, FastAPI, Supabase, Vercel
+- **Data & growth** — Amplitude, Mixpanel, BigQuery, Meta Ads
+- **Content ops** — Notion, HeyGen, ElevenLabs, Nano Banana, CapCut, Higgsfield
+
+> I pick tools that let me ship end-to-end alone or with a small team. Everything above is what I actually reach for weekly — not a wishlist.
+
+### 📌 Pinned work
+
+- [`evalschool`](https://github.com/ankshvayt/evalschool) — Learn LLM Evals from the CLI
+- [`focus-session`](https://github.com/ankshvayt/focus-session) — No-nonsense macOS focus timer with Do Not Disturb
+
+### 🤝 I'm open to
+
+- **Building** — AI agent products, vertical SaaS, creator tools
+- **Partnering** — fellow operators running lean AI-first businesses
+- **Advising** — AI PM problems, 0→1 launches, growth & retention for AI products
+- **Speaking / content collabs** — anything AI product or agentic workflows
+
+**Best way to reach me:** [ankur.pm](https://ankur.pm/) · DMs open on [X](https://x.com/ankurdotai) and [LinkedIn](https://www.linkedin.com/in/ankur-shrivastava/)
+
 ---
 
-*"AI is a superpower - let's build the future together"*
-
-**Open to:** Collaboration on AI projects | Product strategy discussions | Speaking opportunities | Content partnerships
+<p align="center"><i>Shipping &gt; posturing. Compounding &gt; hype.</i></p>
