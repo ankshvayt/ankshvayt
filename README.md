@@ -42,7 +42,7 @@
 - **Advising** — AI PM problems, 0→1 launches, growth & retention for AI products
 - **Speaking / content collabs** — anything AI product or agentic workflows
 
-**Best way to reach me:** [cal.ai/ankurai](https://cal.com/ankurai) · DMs open on [X](https://x.com/ankurdotai) and [LinkedIn](https://www.linkedin.com/in/ankur-shrivastava/)
+**Best way to reach me:** [cal.com/ankurai](https://cal.com/ankurai) · DMs open on [X](https://x.com/ankurdotai) and [LinkedIn](https://www.linkedin.com/in/ankur-shrivastava/)
 
 ---
 
