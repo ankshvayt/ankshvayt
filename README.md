@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Ankur 👋</h1>
 
 <p align="center">
-  <b>AI Product builder. Operator. Ex-ShareChat (200M+ users). Currently Product @ Vestra.</b><br/>
+  <b>AI Product builder. Operator. Currently Product @ Vestra.</b><br/>
+  <b>Ex-ShareChat (200M+ users). </b>
   I build AI-native products and small high-margin businesses — and help other teams ship 10x faster with agents.
 </p>
 
