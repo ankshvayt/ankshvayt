@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI Product builder. Operator. Currently Product @ Vestra.</b><br/>
-  <b>Ex-ShareChat (200M+ users). </b>
+  <b>Ex-ShareChat. </b><br/>
   I build AI-native products and small high-margin businesses — and help other teams ship 10x faster with agents.
 </p>
 
