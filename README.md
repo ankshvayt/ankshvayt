@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://ankur.pm/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ankur.pm-111?style=for-the-badge&logo=safari&logoColor=white"></a>
   <a href="https://www.ankurai.com/"><img alt="ankurai.com" src="https://img.shields.io/badge/ankurai.com-000?style=for-the-badge&logo=openai&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ankur-shrivastava/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/ankurdotai"><img alt="X" src="https://img.shields.io/badge/@ankurdotai-000?style=for-the-badge&logo=x&logoColor=white"></a>
