@@ -23,17 +23,12 @@
 
 ### 🛠️ What I build with
 
-- **AI & agents** — Claude (Code + Cowork + Design), Anthropic + Gemini APIs, Composio, n8n
+- **AI & agents** — Claude (Code + Cowork + Design), Anthropic + Gemini APIs, Composio
 - **Product** — Next.js, React, TypeScript, Python, FastAPI, Supabase, Vercel
 - **Data & growth** — Amplitude, Mixpanel, BigQuery, Meta Ads
 - **Content ops** — Notion, HeyGen, ElevenLabs, Nano Banana, CapCut, Higgsfield
 
 > I pick tools that let me ship end-to-end alone or with a small team. Everything above is what I actually reach for weekly — not a wishlist.
-
-### 📌 Pinned work
-
-- [`evalschool`](https://github.com/ankshvayt/evalschool) — Learn LLM Evals from the CLI
-- [`focus-session`](https://github.com/ankshvayt/focus-session) — No-nonsense macOS focus timer with Do Not Disturb
 
 ### 🤝 I'm open to
 
@@ -42,7 +37,7 @@
 - **Advising** — AI PM problems, 0→1 launches, growth & retention for AI products
 - **Speaking / content collabs** — anything AI product or agentic workflows
 
-**Best way to reach me:** [cal.com/ankurai](https://cal.com/ankurai) · DMs open on [X](https://x.com/ankurdotai) and [LinkedIn](https://www.linkedin.com/in/ankur-shrivastava/)
+**Best way to reach me:** [ankurai.com/cal](https://ankurai.com/cal) · DMs open on [X](https://x.com/ankurdotai) and [LinkedIn](https://www.linkedin.com/in/ankur-shrivastava/)
 
 ---
 
