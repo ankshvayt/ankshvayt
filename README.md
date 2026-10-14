@@ -3,7 +3,7 @@
 <p align="center">
   <b>AI Product builder. Operator. </b> <br/> <b>Currently Product @ Vestra.</b><br/>
   <b>Ex-ShareChat. </b><br/>
-  I build AI-native products and small high-margin businesses — and help other teams ship 10x faster with agents.
+  I build AI-native products and high-margin businesses — and help teams ship 10x faster with agents.
 </p>
 
 <p align="center">
