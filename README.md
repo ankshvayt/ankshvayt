@@ -18,7 +18,7 @@
 ### 🧭 What I'm doing right now
 
 - **Product @ Vestra** — building AI-native products 0→1
-- **Shipping agentic workflows** with Claude, Composio, n8n — turning repeat work into durable compounding systems
+- **Shipping agentic workflows** with Claude, Codex, Meta Muse, Grok — turning repeat work into durable compounding systems
 - **Creating content** about AI/tech (`@ankurdotai`)
 
 ### 🛠️ What I build with
