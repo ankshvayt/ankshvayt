@@ -36,7 +36,3 @@
 - **Speaking / content collabs** — anything AI product or agentic workflows
 
 **Best way to reach me:** [ankurai.com/cal](https://ankurai.com/cal) · DMs open on [X](https://x.com/ankurdotai) and [LinkedIn](https://www.linkedin.com/in/ankur-shrivastava/)
-
----
-
-<p align="center"><i>Shipping &gt; posturing. Compounding &gt; hype.</i></p>
