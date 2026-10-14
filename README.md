@@ -18,7 +18,7 @@
 ### 🧭 What I'm doing right now
 
 - **Product @ Vestra** — building AI-native products 0→1
-- **Shipping agentic workflows** with Claude, Codex, Meta Muse, Grok — turning repeat work into durable compounding systems
+- **Shipping agentic workflows** with Claude, Codex, Meta Muse, Grok
 - **Creating content** about AI/tech (`@ankurdotai`)
 
 ### 🛠️ What I build with
@@ -27,8 +27,6 @@
 - **Product** — Next.js, React, TypeScript, Python, FastAPI, Supabase, Vercel
 - **Data & growth** — Amplitude, Mixpanel, BigQuery, Meta Ads
 - **Content ops** — Notion, HeyGen, ElevenLabs, Nano Banana, CapCut, Higgsfield
-
-> I pick tools that let me ship end-to-end alone or with a small team. Everything above is what I actually reach for weekly — not a wishlist.
 
 ### 🤝 I'm open to
 
